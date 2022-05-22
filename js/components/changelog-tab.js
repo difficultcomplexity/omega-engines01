@@ -1,6 +1,12 @@
 Vue.component("changelog-tab", {
     template: `<div class="changelog-tab">
     <guide-item>
+    <template v-slot:title>v1.1: Install the glasses as soon as possible.</template>
+    <template v-slot:text>
+    Changes to logo. Speed tokens are normal. More achievements soon! Made endgame as google translated.
+    </template>
+    </guide-item>
+    <guide-item>
     <template v-slot:title>v1.0.2</template>
     <template v-slot:text>
     Changes to names, 50+ new news tickers! 
