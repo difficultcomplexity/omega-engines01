@@ -46,8 +46,8 @@ var mod = {
         ["Pokemon REA",
         [
             'kjhsHuKag',
-            "eRLMSEU",
-            "VTsBS"
+            "eRLMSEU5",
+            "VTBs"
         ]],
         ["Random",
         [
